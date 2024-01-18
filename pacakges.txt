@@ -1,0 +1,7 @@
+PACKAGES NEEDED
+
+express
+body-parser
+sequelize
+sequelize-cli
+nodemon
